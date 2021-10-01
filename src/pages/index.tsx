@@ -45,7 +45,7 @@ export default function Home() {
           Connect wallet
         </Button>
       </Box>
-      <Image src={image} alt="Dan Abramov" />
+      <Image height='500px' width='500px' src={image} alt="Dan Abramov" />
     </Box>
   )
 }
